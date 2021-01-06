@@ -14,7 +14,7 @@ class V8(config_util.Config):
 
   @staticmethod
   def fetch_spec(props):
-    url = 'https://github.com/radimkohout/v8'
+    url = 'https://github.com/radimkohout/v8-1'
     solution = {
         'name'        : 'v8',
         'url'         : url,
